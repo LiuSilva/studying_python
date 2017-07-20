@@ -2,29 +2,23 @@
 
 1: Crie um script que contenha 2 variáveis com strings junte as duas variáveis usando concatenação, e exiba o resultado na tela.
 
-2: No modo interativo armazene uma string 'exemplo  ' em uma variável com espaço em branco, depois exiba o resultado na tela 
-eliminando o espaço em branco.
+2: No modo interativo armazene uma string 'exemplo  ' em uma variável com espaço em branco, depois exiba o resultado na tela eliminando o espaço em branco.
 
-3: Crie um script que contenha uma frase em uma variável sobre aspas simples, e faça ocorrer o error de invalid syntax:
-faça a mesma coisa com aspas duplas, e depois explique por que o error acontece.
+3: Crie um script que contenha uma frase em uma variável sobre aspas simples, e faça ocorrer o error de invalid syntax: faça a mesma coisa com aspas duplas, e depois explique por que o error acontece.
 
-4: Crie um script que contenha uma variável "string" e faça a primeira letra ser exebida em maiúscula, depois faça com que a 
-mesma variável, seja exibida com todas letras maiúsculas e minúsculas.
+4: Crie um script que contenha uma variável "string" e faça a primeira letra ser exebida em maiúscula, depois faça com que a mesma variável, seja exibida com todas letras maiúsculas e minúsculas.
 
-5: Faça a soma de 2 números, e multplique ele por um número do seu gosto, ex: 2+3*5 em seguida faça o mesmo e use () para a 
-adição ex: (2+3)*5 o resultado de ambos vão ser diferentes explique pq isso acontece .
+5: Faça a soma de 2 números, e multplique ele por um número do seu gosto, ex: 2 + 3 * 5 em seguida faça o mesmo e use () para a adição ex: ( 2 + 3) * 5 o resultado de ambos vão ser diferentes explique pq isso acontece .
 
-6: Crie um script que tenha a idade de uma pessoa em uma variável,depois faça a concatenação da idade com duas "strings"
-adicionando o valor de ambos a outra nova variável, ex: nova ="parabéns"+idade+"anos" vai ocorrer um error, então tente 
-resolver e explique pq isso acontece. 
- 
-7: Crie um script com uma lista depois mostre o resultado na tela .
+6: Crie um script que tenha a idade de uma pessoa em uma variável, depois faça a concatenação da idade com duas "strings" adicionando o valor de ambos a outra nova variável, ex: nova ="parabéns"+idade+"anos" vai ocorrer um error, então tente resolver e explique pq isso acontece.
 
- 8: Crie um script que mostre apenas o primeiro elemento da lista passando a posição e explique como funciona.
+7: Crie um script com uma lista depois mostre o resultado na tela.
+
+8: Crie um script que mostre apenas o primeiro elemento da lista passando a posição e explique como funciona.
 
 9: Crie um script que mostre um elemento da lista "string" que começe com a primeira letra maiúscula na tela.
 
-10: Mostre o ultimo elemento da lista, passando a posição de forma negativa e explique .
+10: Mostre o ultimo elemento da lista, passando a posição de forma negativa e explique.
 
 11: Crie um script que substitua o primeiro item de sua lista, mostre os resultados na tela antes, e depois de alterar a lista.
 
@@ -36,7 +30,7 @@ resolver e explique pq isso acontece.
 
 15: Crie um script que remova um elemento na sua lista, na posição que vc deseja.
 
-16: Crie um script que remova o ultimo elemento da lista de forma que vc ainda possa usar o elemento removido.  explique  o método .
+16: Crie um script que remova o ultimo elemento da lista de forma que vc ainda possa usar o elemento removido.  explique  o método.
 
 17: Crie um script que  remova o ultimo elemento da lista com método pop(), armazene em uma segunda variável, e faça a concatenação dele com uma frase “string” que comece com a primeira letra maiúscula . 
 
@@ -44,16 +38,9 @@ resolver e explique pq isso acontece.
 
 19: explique Quando usar o del  e quando usar o pop() ?
 
-20: Crie um script com uma lista depois armazene um elemento da lista, em uma variável ,remova o elemento da lista, com o método  .remove() faça a concatenação usando o segundo valor da variável, com uma frase ‘string’  observe que o remove apenas elimina a primeira ocorrência explique pq isso acontece .
+20: Crie um script com uma lista depois armazene um elemento da lista, em uma variável, remova o elemento da lista, com o método  .remove() faça a concatenação usando o segundo valor da variável, com uma frase ‘string’  observe que o remove apenas elimina a primeira ocorrência explique pq isso acontece .
 
-21:Desafio extra:  faça um programa que tenha 3 pessoas em uma mesa.
-Elas vão estar em sua lista, então a ultima pessoa da lista não pagou a conta. 
-Vc vai fazer uma mensagem que fale que  ela não pagou a conta , então  fale que vai expulsar ela.
-Em seguida vc vai substituir a pessoa que não pagou , e vai adicionar outra pessoa a mesa .
-Depois faça uma mensagem ao qual , pergunte a ela, se ela quer se juntar a mesa .
-E ela vai responder que sim .
-Depois , faça uma mensagem que envolva mais 1 pessoa da sua lista . 
-Faça que seu programa fique bem intuitivo e com funções que  foram estudadas ate agora .
+21:Desafio extra:  faça um programa que tenha 3 pessoas em uma mesa. Elas vão estar em sua lista, então a ultima pessoa da lista não pagou a conta. Vc vai fazer uma mensagem que fale que  ela não pagou a conta , então  fale que vai expulsar ela. Em seguida vc vai substituir a pessoa que não pagou , e vai adicionar outra pessoa a mesa . Depois faça uma mensagem ao qual , pergunte a ela, se ela quer se juntar a mesa. E ela vai responder que sim. Depois, faça uma mensagem que envolva mais 1 pessoa da sua lista.  Faça que seu programa fique bem intuitivo e com funções que  foram estudadas ate agora.
 
 22:Crie um script que que altere a ordem da lista , para que os elementos  fiquem de  forma alfabética .
 
@@ -151,3 +138,17 @@ Se o elemento da lista for igual ao especificado,’string ‘print ele em letra
 65:No modo interativo crie uma string com a 1 letra maiúscula , faça o teste condicional convertendo ela para minúscula , o resultado e True explique .
 
 66:Crie um script com uma "string", caso a string seja diferente != da string comparada, ele retorna uma msg de sua preferencia , explique.
+
+67:Realize um teste condicional com números que retorne True , explique.
+
+68:Crie um script com um teste condicional , se a idade da pessoa  for diferente =! , retorne uma msg ,“ Por favor tente novamente”.
+
+69:No modo interativo  faça comparações com números, usando ( maior >), (<menor), (maior ou igual >=) ,(<=  menor ou igual) explique .
+
+70:No modo  interativo crie a idade de 2 pessoas em variáveis , ex: idade1 = 22, idade2  =18, caso uma não corresponder como verdadeira True, então todo o resultado e( False)  use o AND, explique.
+
+71:Faça a mesma coisa do 70, porem as duas condições vão ser verdadeiras e vai retornar True, use o AND explique.
+
+72:Repita os desafios do 70 e 71, porem usando (OR ) explique .
+
+73:Explique a diferença  do AND e OR
