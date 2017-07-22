@@ -79,7 +79,7 @@ Por último ele pergunta o preço , o vendedor responde: , e ele dar risada e fa
 
 37: Explique o Colon , quando devo usar ?
 
-38: Desafio extra: Crie um script que tenha uma lista com pelo menos 3 animais, use o loop for com uma declaração para eles , no final do programa faça uma msg declarando oque esses animais tem em comum .
+38: Desafio extra: Crie um script que tenha uma lista com pelo menos 3 animais, use o loop for com uma declaração para eles , no final do programa faça uma msg declarando oque esses animais tem em comum.
 
 39: Crie um loop for com a função range() com números de 1 a 5, a saída são apenas números de 1 a 4, explique por que isso acontece.
 
@@ -93,13 +93,13 @@ Por último ele pergunta o preço , o vendedor responde: , e ele dar risada e fa
 
 44: No modo interativo crie uma lista com números, existe funções que mostram qual o (menor) o( maior) e a (soma) de todos, exiba isso na tela e explique .
 
-45: Crie um script com o mesmo resultado dos desafios anteriores 42,43 com apenas 1 linha dento de uma lista [] essa forma e chamada de Lista de Compreensões explique .
+45: Crie um script com o mesmo resultado dos desafios anteriores 42,43 com apenas 1 linha dento de uma lista [] essa forma e chamada de Lista de Compreensões explique.
 
-46: Crie um script uma lista com elementos, depois mostre o resultado dos 3 primeiros , usando fatiamento explique .
+46: Crie um script uma lista com elementos, depois mostre o resultado dos 3 primeiros , usando fatiamento explique.
 
-47: Crie um script que mostre os elementos de sua lista de 1 a 4 usando fatiamento o resultando são apenas 3 elementos explique .
+47: Crie um script que mostre os elementos de sua lista de 1 a 4 usando fatiamento o resultando são apenas 3 elementos explique.
 
-48: Faça o mesmo do 47 mais sem usar o primeiro número o resultado são 4 elementos explique .
+48: Faça o mesmo do 47 mais sem usar o primeiro número o resultado são 4 elementos explique.
 
 49: Crie um script que mostre os últimos elementos de sua lista, sem os 2 primeiros explique
 
