@@ -133,7 +133,7 @@ Por último ele pergunta o preço , o vendedor responde: , e ele dar risada e fa
 
 64: Faça a mesma coisa do 63, que retorne valor False explique .
 
-65: No modo interativo crie uma string com a 1 letra maiúscula , faça o teste condicional convertendo ela para minúscula , o resultado e True explique .
+65: No modo interativo crie uma string com a 1 letra maiúscula , faça o teste condicional convertendo ela para minúscula , o resultado e True explique.
 
 66: Crie um script com uma "string", caso a string seja diferente != da string comparada, ele retorna uma msg de sua preferencia , explique.
 
@@ -147,7 +147,7 @@ Por último ele pergunta o preço , o vendedor responde: , e ele dar risada e fa
 
 71: Faça a mesma coisa do 70, porem as duas condições vão ser verdadeiras e vai retornar True, use o AND explique.
 
-72: Repita os desafios do 70 e 71, porem usando (OR ) explique .
+72: Repita os desafios do 70 e 71, porem usando (OR ) explique.
 
 73: Explique a diferença  do AND e OR
 
@@ -155,12 +155,22 @@ Por último ele pergunta o preço , o vendedor responde: , e ele dar risada e fa
 
 75: Faça a mesma coisa do 74 que retorne valor False explique.
 
-76: Crie um script que tenha uma lista com users banidos, caso o usuário não esteja na lista vai exibir uma mensagem ‘você já pode enviar sua resposta agora’  use o (in )e (not) para isso, explique.
+76: Crie um script que tenha uma lista com users banidos, caso o usuário não esteja na lista vai exibir uma mensagem ‘você já pode enviar sua resposta agora’  use o (in) e (not) para isso, explique.
 
-77: Explique sobre expressões Booleanas .
+77: Explique sobre expressões Booleanas.
 
 78: Crie um script com uma condição se a idade da pessoa for, >= maior igual a 18 print , que ela e velha o suficiente e já pode votar.
 
 79: Faça o exemplo do 78 porem se a idade da pessoa , for menor < que 18 exiba uma mensagem , “você e muito novo para votar”, use o else: explique.
 
 80: Desafio extra: Crie um script com a idade de uma pessoa e de 12 anos, nesse caso faça uma condição se idade da pessoa for( < 4: menor que 4 )print uma mensagem que ela não pagará, para andar no park, se for (< 18:  menor que 18 )ela pagará 5 R$, senão: print uma mensagem  que ela pagará 10 R$, use o if-elif -else: explique.
+
+81: Crie um script onde a idade da pessoa e de 12 anos, se a idade, for < 4: o preço = 0 se for < 18: preço = 5 senão: preço = 10 , por ultimo faça uma mensagem ‘Seu custo de admissão e $' concatenando com o preço, converta o preço para str()  use if-elif-else: explique .
+
+82: Faça a mesma coisa do 81, mais adicione uma condição elif para uma pessoa idosa que vai ser um desconto, se idade <65: preço = 10 mude o preço das outras condições, idade < 18: preço = 5 senão preço = 5 nesse caso qualquer idade abaixo de 65, e de 18 acima, a pessoa pagará 10 R$ caso contrario serão executados as outras condições, de acordo com a idade explique.
+
+83: Faça o mesmo do 82, porem mude a condição else: para se a idade do idoso for >= 65 preço = 5, o resultado será basicamente a mesma coisa.
+
+84: Crie um script que verifica os ingredientes para uma pizza, caso esteja na lista uma msg será exibida exemplo ‘queijo adicionado’ use( ifs e in) para isso explique.
+
+85: Faça como o 84 porem adicione elifs depois do if , o código vai parar na primeira condição caso ela passe, explique por que isso acontece.
