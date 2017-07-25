@@ -174,3 +174,11 @@ Por último ele pergunta o preço , o vendedor responde: , e ele dar risada e fa
 84: Crie um script que verifica os ingredientes para uma pizza, caso esteja na lista uma msg será exibida exemplo ‘queijo adicionado’ use( ifs e in) para isso explique.
 
 85: Faça como o 84 porem adicione elifs depois do if , o código vai parar na primeira condição caso ela passe, explique por que isso acontece.
+
+86: Crie um script com um loop for, com elementos para uma pizza ,para cada elemento vai ser exibida a mensagem exemplo ‘ adicionando tomate’, por ultimo faça uma mensagem ‘pizza pronta’.
+
+87: Faça como 86, porem faça uma mensagem se  ‘elemento’ == a um elemento na lista, print ex: ‘desculpe estamos sem pimenta’, depois dessa mensagem use o else: para o resto do código.
+
+88: Desafio extra: crie uma lista vazia, em seguida faça uma condição( if) rápida para a lista, python retorna True se a lista tiver pelo menos um elemento, nesse caso não tem, então o resultado e False, crie um loop for com uma mensagem concatenando com os elementos da lista, já que não tem nada para a pizza, então faça uma mensagem perguntando se a ‘pessoa deseja uma pizza simples’ use o else: .
+
+89: Crie um script com duas listas de coberturas para pizza, coberturas disponíveis, e uma com pedidos das pessoas, faça um loop se a cobertura estiver nas coberturas disponíveis, vai ser exibida a mensagem ex ‘adicionando tomate’ ... senão vai mostrar uma mensagem ex: ‘não temos batata frita no momento’.
