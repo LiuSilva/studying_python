@@ -182,3 +182,15 @@ Por último ele pergunta o preço , o vendedor responde: , e ele dar risada e fa
 88: Desafio extra: crie uma lista vazia, em seguida faça uma condição( if) rápida para a lista, python retorna True se a lista tiver pelo menos um elemento, nesse caso não tem, então o resultado e False, crie um loop for com uma mensagem concatenando com os elementos da lista, já que não tem nada para a pizza, então faça uma mensagem perguntando se a ‘pessoa deseja uma pizza simples’ use o else: .
 
 89: Crie um script com duas listas de coberturas para pizza, coberturas disponíveis, e uma com pedidos das pessoas, faça um loop se a cobertura estiver nas coberturas disponíveis, vai ser exibida a mensagem ex ‘adicionando tomate’ ... senão vai mostrar uma mensagem ex: ‘não temos batata frita no momento’.
+
+90: Crie um script com um dicionário simples,  depois print o valor que contem na chave.
+
+91: Explique oque são dicionários.
+
+92:Crie um script com um dicionário e adicione uma pessoa com uma pontuação, Depois crie uma variável armazene o valor da chave a ela, print uma mensagem concatenando com a variável que fale quantos pontos a pessoa tem.
+
+93: Crie um script com um dicionário que tenha um personagem com 2 valores em suas chaves : em seguida adicione mais 2 valores ao dicionário explique.
+
+94: Crie um script com um dicionário vazio e adicione chaves com seus valores.
+
+95: Crie um script com um dicionário e um personagem ele vai ter um valor na chave, vai ser uma cor , em seguida altere a cor, faça duas mensagens para antes e depois alterar a cor, exemplo , ’ cor do personagem e  vermelho ‘  ‘a cor do personagem agora e  preto’ explique.
