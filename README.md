@@ -194,3 +194,13 @@ Por último ele pergunta o preço , o vendedor responde: , e ele dar risada e fa
 94: Crie um script com um dicionário vazio e adicione chaves com seus valores.
 
 95: Crie um script com um dicionário e um personagem ele vai ter um valor na chave, vai ser uma cor , em seguida altere a cor, faça duas mensagens para antes e depois alterar a cor, exemplo , ’ cor do personagem e  vermelho ‘  ‘a cor do personagem agora e  preto’ explique.
+
+96: Desafio extra: crie um script com um personagem, no dicionário adicione (posição x, posição y e velocidade)  exemplo {'posição_x':0 ,'posição_y': 25, 'velocidade': 'medio'} crie condições, para a velocidade, se a velocidade  for True, então adicione uma variável com um novo valor exemplo incremento = 2 por ultimo adicione o incremento a posição x e print duas mensagens uma no começo mostra a posição original, no final mostra a nova posição explique.
+
+97: Remova um par de chaves do dicionário explique.
+
+98: Crie um script com um dicionário com suas linguagens favoritas, quebre ele em varias linhas depois print uma mensagem falando qual sua linguagem favorita explique.
+
+99: Crie um script com um dicionário que tenha o username de uma pessoa, o primeiro nome, e o ultimo a cada par de chaves, em seguida faça um loop for para mostrar as chaves e os seus valores, use .items() explique
+
+100: Faça como  o 98, porem com um loop for,  mostrando as chaves com o nome de cada pessoa e sua linguagem favorita exemplo ‘rodrigo sua linguagem favorita e : Python ...’ use items() explique.
