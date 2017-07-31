@@ -1,8 +1,8 @@
-# Programando em Python
+# Aprendendo a Programar em Python
 
-Lista e exercicíos resolvidos sobre Python
+Lista e exercicíos resolvidos sobre Python.
 
-Livro utilizado:
+**Livro**:
 * [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.nostarch.com/pythoncrashcourse)
 
 ## Lista de Desafios - Python
