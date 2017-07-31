@@ -1,4 +1,11 @@
-# Lista de Desafios - Python
+# Programando em Python
+
+Lista e exercicíos resolvidos sobre Python
+
+Livro utilizado:
+* [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.nostarch.com/pythoncrashcourse)
+
+## Lista de Desafios - Python
 
 1: Crie um script que contenha 2 variáveis com strings junte as duas variáveis usando concatenação, e exiba o resultado na tela.
 
