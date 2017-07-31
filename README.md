@@ -187,7 +187,7 @@ Por último ele pergunta o preço , o vendedor responde: , e ele dar risada e fa
 
 91: Explique oque são dicionários.
 
-92:Crie um script com um dicionário e adicione uma pessoa com uma pontuação, Depois crie uma variável armazene o valor da chave a ela, print uma mensagem concatenando com a variável que fale quantos pontos a pessoa tem.
+92: Crie um script com um dicionário e adicione uma pessoa com uma pontuação, Depois crie uma variável armazene o valor da chave a ela, print uma mensagem concatenando com a variável que fale quantos pontos a pessoa tem.
 
 93: Crie um script com um dicionário que tenha um personagem com 2 valores em suas chaves : em seguida adicione mais 2 valores ao dicionário explique.
 
@@ -204,3 +204,11 @@ Por último ele pergunta o preço , o vendedor responde: , e ele dar risada e fa
 99: Crie um script com um dicionário que tenha o username de uma pessoa, o primeiro nome, e o ultimo a cada par de chaves, em seguida faça um loop for para mostrar as chaves e os seus valores, use .items() explique
 
 100: Faça como  o 98, porem com um loop for,  mostrando as chaves com o nome de cada pessoa e sua linguagem favorita exemplo ‘rodrigo sua linguagem favorita e : Python ...’ use items() explique.
+
+101: Crie um script com um loop for, que mostre apenas os nomes das chaves, no dicionario use keys() explique.
+
+102: Crie um script com o loop for, que mostre o nome da pessoa e sua linguagem favorita, apenas se ela estiver na sua lista use (keys() if) explique.
+
+103: Crie um script se a pessoa não estiver no dicionario, print uma mensagem a interrogando, exemplo: 'rodrigo você sabe programar ?' use (if, keys()) explique.
+
+104: Crie um script com o loop for, que mostre cada pessoa no seu dicionario, com uma mensagem para cada pessoa de forma ordenada, use sorted() keys() explique.
