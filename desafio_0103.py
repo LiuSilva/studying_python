@@ -9,9 +9,5 @@ linguagens_programacao = {
     'Luiza': 'Python'
 }
 
-pessoas = ['Luiza', 'Maria', 'Timoteo', 'Ana', 'Marcos']
-for pessoa in pessoas:
-    if pessoa in linguagens_programacao.keys():
-        print(pessoa, "você gosta de programar na linguagem", linguagens_programacao[pessoa])
-    else:
-        print(pessoa, "você deveria aprender a programar, é muito divertido!")
+if "Lourenço" not in linguagens_programacao.keys():
+    print("Lourenço você deveria aprender a programar, é muito divertido!")
