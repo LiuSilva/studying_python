@@ -219,3 +219,27 @@ Por último ele pergunta o preço , o vendedor responde: , e ele dar risada e fa
 103: Crie um script se a pessoa não estiver no dicionario, print uma mensagem a interrogando, exemplo: 'rodrigo você sabe programar ?' use (if, keys()) explique.
 
 104: Crie um script com o loop for, que mostre cada pessoa no seu dicionario, com uma mensagem para cada pessoa de forma ordenada, use sorted() keys() explique.
+
+105: Crie um script com um dicionario, faça um loop for, que apenas mostre os valores das chaves use .values() explique
+
+106: Faça como o 105, porem o dicionário  vai ter um valor repetido na chave, então faça mostrar o valor apenas uma vez,
+caso ele apareça mais de uma, use values() set()
+
+107: Crie um script com 3 dicionários cada 1 deles vai ter uma cor e pontuação, em seguida faça uma lista e armazene os 3 dicionários,
+crie um loop for que mostre todos os dicionários na lista, essa técnica e chamada de aninhamento explique.
+
+108: Desafio extra: crie um script com uma lista vazia,faça um loop for com um range de 30,faça uma variável para receber o dicionario,
+nele vai ter, cor,pontos e velocidade com seus valores, adicione os valores na lista vazia,faça um novo loop que mostre apenas
+5 dicionários, por ultimo print quantos dicionários tem na sua lista use (range() for fatiamento[:5] len() ) explique.
+
+109: Faça semelhante ao 108, porem altere os 3 primeiros valores dos dicionários cor, pontos, e velocidade, depois mostre o resultado
+com os dicionários alterados use range() fatiamento [:] if explique.
+
+110: Crie um script com um dicionário, com coberturas pra uma pizza, 1 chave vai ter o tipo da pizza, a 2 vai ser uma lista dentro do dicionário, faça um loop e resuma o pedido da pessoa, informando qual o tipo da pizza,
+e as coberturas que estão na lista explique.
+
+111: Crie um script com um dicionário, ao qual vai ter no seu valor uma lista para cada pessoa, com as linguagens que ele gosta,
+faça um loop for, para mostrar o nome da pessoa com uma mensagem, ex: 'rodrigo sua linguagem preferida e' ... em seguida
+faça um segundo loop dentro do 1, que mostre as linguagens que estão na lista use .items() explique.
+
+112: Crie um script com um dicionário nele vai ter duas chaves,cada chave vai ser o nome de uma pessoa, e vai receber um dicionário, com primeiro nome, ultimo nome, e localização, em seguida faça um loop for ao qual mostre as informações de cada pessoa, nome completo, localização .. use items() explique.
