@@ -243,3 +243,21 @@ faça um loop for, para mostrar o nome da pessoa com uma mensagem, ex: 'rodrigo 
 faça um segundo loop dentro do 1, que mostre as linguagens que estão na lista use .items() explique.
 
 112: Crie um script com um dicionário nele vai ter duas chaves,cada chave vai ser o nome de uma pessoa, e vai receber um dicionário, com primeiro nome, ultimo nome, e localização, em seguida faça um loop for ao qual mostre as informações de cada pessoa, nome completo, localização .. use items() explique.
+
+113: Crie um script que armazene os valores digitado pelo usuário e print o resultado na tela use input() explique.
+
+114: Crie um script que pergunte o nome de uma pessoa, faça uma concatenação com valor digitado junto a uma mensagem ex: ola, rodrigo explique.
+
+115: Muitas vezes vc pode ter frases longas e não e bom escrever dentro do input(), então armazene sua frase em uma variável, em seguida use a variável no input(),assim mostrará o resultado que deseja,
+faça uma concatenação com o resultado digitado pelo usuário, com uma frase ficará ex: ola rodrigo !, explique.
+
+116: No modo interativo crie uma entrada de dados input(), entre com um numero , depois compare esse valor ex:
+idade >= 18 vai ocorrer um error,TypeError: '>=' not supported between instances of 'str' and 'int', resolva esse problema e explique.
+
+117: Crie um script que pergunte a altura de uma pessoa em polegadas para andar no park, se a idade >= 36 print altura aprovada, senão: print que ela e muito baixa para andar no park e pergunte sua idade, explique.
+
+118: Faça calculos com o operador (%),e explique sua função.
+
+119: Desafio extra: crie um script que pergunte um valor que ao dividir, fale se o valor e par ou impar use (%) explique.
+
+120: Crie um loop while enquanto:, que imprima numeros de 1 a 5 explique.

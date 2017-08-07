@@ -22,4 +22,7 @@ pessoas = {
 }
 
 for pessoa, dados in pessoas.items():
-    print(pessoa.title(), dados['ultimo_nome'], 'você mora em', dados['localizacao'])
+    print('--> Nome:', pessoa.title())
+    print('\t - Nome completo:', dados['primeiro_nome'], dados['ultimo_nome'])
+    print('\t - Localização:', dados['localizacao'])
+    print()
