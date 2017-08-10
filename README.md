@@ -261,3 +261,22 @@ idade >= 18 vai ocorrer um error,TypeError: '>=' not supported between instances
 119: Desafio extra: crie um script que pergunte um valor que ao dividir, fale se o valor e par ou impar use (%) explique.
 
 120: Crie um loop while enquanto:, que imprima numeros de 1 a 5 explique.
+
+121: Crie um script com o loop while, que enquanto a mensagem digitada pelo usuário for != diferente de sair, ele executara o loop explique.
+
+122: Crie um script com o loop while, nele vai ter uma variável com valor True, se o que o user digitar for diferente de "sair" o loop continua, caso contrario, a variável recebe False e o programa terminará, explique.
+
+123: Crie um script com o loop while onde o usuário vai digitar os lugares que ele visitou, se oque ele digitar for igual a "sair" o loop acaba, e o programa termina, senão será concatenado uma mensagem com a o valor digitado pelo
+usuário, ex:" Eu adoraria ir para SP" use 'break' explique.
+
+124: Crie um script com o loop while, onde tenha uma variável com um contador 0, enquanto contador for < 10 contador recebe += 1, se o contador % 2 == 0 for igual a 0, então ele terá que ignorar esses resultados, se == 1, ele retorna os números que tiveram o %1 use (continue), explique.
+
+125: Crie um script com loop infinito explique.
+
+126: Desafio extra: crie um script com um loop while, fora dele vai ter duas listas, 1 com users não confirmados,
+e outra com usuários confirmados, dentro do while vc terá uma variável que recebe cada ultimo user da lista durante o loop while,que fara com que cada usuário passe por uma verificação,e depois disso sera movido para a lista de confirmados em seguida faça um loop for, que mostre cada usuário confirmado explique.
+
+127: Muitas vezes vc pode ter em uma lista mais de um elemento, por exemplo uma lista de animais, que tenha gato mais de uma vez, use o loop while, pra remover esses animais da sua lista com o método remove() explique.
+
+128: Crie um script com loop while, que faça duas perguntas ao usuário, qual seu nome, e qual montanha ele gostaria de escalar, em seguida, adicione as respostas a um dicionário,faça outra pergunta caso outra pessoa queira responder, ela deve digitar (sim /não) se ele digitar não, o loop deve acabar, terá que mostrar na tela ex: --resultado da enquete-- rodrigo gostaria de escalar no Alasca, explique.
+
