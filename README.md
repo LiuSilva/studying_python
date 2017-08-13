@@ -280,3 +280,28 @@ e outra com usuários confirmados, dentro do while vc terá uma variável que re
 
 128: Crie um script com loop while, que faça duas perguntas ao usuário, qual seu nome, e qual montanha ele gostaria de escalar, em seguida, adicione as respostas a um dicionário,faça outra pergunta caso outra pessoa queira responder, ela deve digitar (sim /não) se ele digitar não, o loop deve acabar, terá que mostrar na tela ex: --resultado da enquete-- rodrigo gostaria de escalar no Alasca, explique.
 
+129: Crie um script com uma função simples, que tenha uma mensagem, e exiba o resultado na tela explique.
+
+130: Crie um script com uma função, que tenha um argumento depois print o resultado explique.
+
+131: Crie um script com uma função com um argumento, parâmetro, tipo de animal e seu nome, em seguida faça duas mensagens pra serem exibidas de acordo com o animal e seu nome, depois chame a função e mostre o resultado explique.
+
+132: Crie um script que chame a função 2 vezes explique.
+
+133: Muitas vezes vc pode trocar a ordem dos argumentos,parâmetros em uma função, e ter um resultado fora de ordem em seu programa, existe uma forma de concertar isso, argumentos de palavras chaves, faça na sua função e mostre o resultado na tela explique.
+
+134: Faça como o 131, porem adicione um valor padrão ao tipo de animal no parâmetro, depois chame a função e mostre na tela o resultado explique.
+
+135: Crie uma função com argumentos,parâmetro e adicione valores a eles, em seguida chame a função sem fazer suas declarações, vai ocorrer um erro explique.
+
+136: Desafio extra: crie uma função onde terá 2 argumentos , primeiro e ultimo nome, em seguida armazene o nome completo a uma variável, retorne os valores, com letras maiúsculas, crie um nova variável, para armazenar sua função com os nomes, depois print o resultado na tela use (return) explique.
+
+137: Crie um script com uma função com 3 parâmetros, para o nome completo de uma pessoa, o ultimo sera com valor vazio,para caso queira adicionar um segundo nome a pessoa, faça uma condição se o parâmetro vazio:então vc criar uma nova variável que receberá, os 3 parâmetros senão:, então receberá apenas 2, chame a função das duas formas, com apenas 2 nomes, e sem seguida com os 3 explique.
+
+138: Crie um script com uma função que retorne um dicionário, e mostre o resultado explique.
+
+139: Crie um script com uma função que tenha um dicionário,que vai receber 3 argumentos primeiro nome, segundo e idade, idade sera vazio, faça uma condição se idade: então adicione chave e argumento ao dicionário,retorne o dicionário,crie uma variável que recebe a função adicione o primeiro e segundo nome e por ultimo a idade, explique.
+
+140: Crie um script com uma função, primeiro e segundo nome nos args(), faça uma variável que receba o nome completo, depois retorne o valor, faça um loop while ,crie duas variáveis para o usuário digitar primeiro e segundo nome, faça com que ele posso sair,digitando 'q', em seguida crie uma variável pra armazenar sua função passe os valores, depois chame a função explique.
+
+141: Crie um script com uma função,e um loop for, crie uma variável para armazenar uma mensagem com os valores que serão repetidos print a msg, em seguida faça uma lista com os nomes dos usuários que sua função vai receber, chame a função passando a lista com os nomes explique.
