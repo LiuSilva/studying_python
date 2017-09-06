@@ -7,7 +7,7 @@ Lista e exercicíos resolvidos sobre Python.
 
 ## Lista de Desafios - Python
 
-			Chapter 02: Variables
+		                    	Chapter 02: Variables
 
 1: Crie um script que contenha 2 variáveis com strings junte as duas variáveis usando concatenação, e exiba o resultado na tela.
 
@@ -21,7 +21,7 @@ Lista e exercicíos resolvidos sobre Python.
 
 6: Crie um script que tenha a idade de uma pessoa em uma variável, depois faça a concatenação da idade com duas "strings" adicionando o valor de ambos a outra nova variável, ex: nova ="parabéns"+idade+"anos" vai ocorrer um error, então tente resolver e explique pq isso acontece.
 
-			Chapter 03: Introduction Lists 
+		                    	Chapter 03: Introduction Lists
 
 7: Crie um script com uma lista depois mostre o resultado na tela.
 
@@ -74,7 +74,7 @@ O vendedor vai Responder: quais são ,  passe a posição de cada carro, que sej
 O comprador vai gostar de um carro , então faça uma frase, que fale qual carro , ele gostou passando a posição.
 Por último ele pergunta o preço , o vendedor responde: , e ele dar risada e fala que está barato
 
-			Chapter 04: Lists
+		                    	Chapter 04: Lists
 
 30: Crie um script que mostre os elementos de sua lista na tela, usando o loop for e explique .
 
@@ -138,7 +138,7 @@ Por último ele pergunta o preço , o vendedor responde: , e ele dar risada e fa
 
 60: Explique sobre indentação
 
-			Chapter 05: IF statement
+		                    	Chapter 05: IF statement
 
 61: Crie uma condição com um loop for, que contenha uma lista de coisas, faça uma condição, Se o elemento da lista for igual ao especificado,’string ‘print ele em letras maiúsculas, senão : print em minúsculas explique.
 
@@ -198,7 +198,7 @@ Por último ele pergunta o preço , o vendedor responde: , e ele dar risada e fa
 
 89: Crie um script com duas listas de coberturas para pizza, coberturas disponíveis, e uma com pedidos das pessoas, faça um loop se a cobertura estiver nas coberturas disponíveis, vai ser exibida a mensagem ex ‘adicionando tomate’ ... senão vai mostrar uma mensagem ex: ‘não temos batata frita no momento’.
 
-			Chapter 06: Dictionaries
+		                    	Chapter 06: Dictionaries
 
 90: Crie um script com um dicionário simples,  depois print o valor que contem na chave.
 
@@ -254,7 +254,7 @@ faça um segundo loop dentro do 1, que mostre as linguagens que estão na lista 
 
 112: Crie um script com um dicionário nele vai ter duas chaves,cada chave vai ser o nome de uma pessoa, e vai receber um dicionário, com primeiro nome, ultimo nome, e localização, em seguida faça um loop for ao qual mostre as informações de cada pessoa, nome completo, localização .. use items() explique.
 
-			Chapter 07: User Input and While Loop
+		                    	Chapter 07: User Input and While Loop
 
 113: Crie um script que armazene os valores digitado pelo usuário e print o resultado na tela use input() explique.
 
@@ -292,7 +292,7 @@ e outra com usuários confirmados, dentro do while vc terá uma variável que re
 
 128: Crie um script com loop while, que faça duas perguntas ao usuário, qual seu nome, e qual montanha ele gostaria de escalar, em seguida, adicione as respostas a um dicionário,faça outra pergunta caso outra pessoa queira responder, ela deve digitar (sim /não) se ele digitar não, o loop deve acabar, terá que mostrar na tela ex: --resultado da enquete-- rodrigo gostaria de escalar no Alasca, explique.
 
-			Chapter 08: Functions
+		                    	Chapter 08: Functions
 
 129: Crie um script com uma função simples, que tenha uma mensagem, e exiba o resultado na tela explique.
 
@@ -332,7 +332,7 @@ e outra com usuários confirmados, dentro do while vc terá uma variável que re
 
 147: Desafio extra: crie um script que as formas de importação de modulos explique.
 
-			Chapter 09: Classes
+		                    	Chapter 09: Classes
 
 148: Crie com uma classe com parâmetros para um cachorro,nome idade, faça 3 funções que vão receber essas definições,1 fala que ele esta sentado, 2 fala que ele esta por toda parte, 3 fala que ele esta rolando, depois crie duas instancias,cada instancia sera um cachorro diferente, em seguida use as funções para cada cachorro e mostre na tela explique.
 
@@ -360,33 +360,33 @@ e outra com usuários confirmados, dentro do while vc terá uma variável que re
 
 159: Crie um script que abra um arquivo de texto, é mostre o conteúdo escrito explique.
 
-160:Armazene seu arquivo de texto em uma variável, depois mostre o seu conteudo com um loop for explique.
+160: Armazene seu arquivo de texto em uma variável, depois mostre o seu conteudo com um loop for explique.
 
-161:Faça como o 160, porem use a função rstrip() pra remover as linhas em branco explique.
+161: Faça como o 160, porem use a função rstrip() pra remover as linhas em branco explique.
 
-162:Faça com que seu arquivo de texto possa manter o acesso fora do bloco, é mostre o resultado use readlines() explique.
+162: Faça com que seu arquivo de texto possa manter o acesso fora do bloco, é mostre o resultado use readlines() explique.
 
-163:Edite o arquivo de texto para que ele Mostre as linhas do arquivo em sequencia um a frente do outro,é mostre a quantidade de caracters que o arquivo possui explique.
+163: Edite o arquivo de texto para que ele Mostre as linhas do arquivo em sequencia um a frente do outro,é mostre a quantidade de caracters que o arquivo possui explique.
 
-164:Faça com que seu script mostre as primeiras 50 casas decimais, para casos de muitas linhas explique.
+164: Faça com que seu script mostre as primeiras 50 casas decimais, para casos de muitas linhas explique.
 
-165:No seu script coloque sua data de aniversario nos 50 primeiros digitos, ex: 080595 faça uma condição se sua data de aniversario estiver nas 50 primeiras linhas print, seu aniversario aparece nos primeiros digitos senão,print que ela não aparece. use input() para digitar a data explique.
+165: No seu script coloque sua data de aniversario nos 50 primeiros digitos, ex: 080595 faça uma condição se sua data de aniversario estiver nas 50 primeiras linhas print, seu aniversario aparece nos primeiros digitos senão,print que ela não aparece. use input() para digitar a data explique.
 
-166:Crie um script que escreve em um arquivo de texto vazio, a seguinte mensagem "I love you Programming" explique.
+166: Crie um script que escreve em um arquivo de texto vazio, a seguinte mensagem "I love you Programming" explique.
 
-167:Faça como 166, add mais uma linha ao arquivo com quebra de linha \n explique.
+167: Faça como 166, add mais uma linha ao arquivo com quebra de linha \n explique.
 
-168:Adicione mais duas mensagens ao arquivo de forma que sejam anexadas explique.
+168: Adicione mais duas mensagens ao arquivo de forma que sejam anexadas explique.
 
-169:Crie um script print(5/0) vai acontecer o error ZeroDivisionError, use try é except para que mostre uma mensagem "você não pode dividir esses números".. ao invez da mensagem de error explique.
+169: Crie um script print(5/0) vai acontecer o error ZeroDivisionError, use try é except para que mostre uma mensagem "você não pode dividir esses números".. ao invez da mensagem de error explique.
 
-170:Desafio extra: Crie uma pequena calculadora, para a divivisão de 2 números usando o loop while, se você dividir 5/0 por exemplo, vai ocorrer o error que você viu antes, faça com que seja exibida uma mensagem para quando ocorrer esse error ex: "você não pode dividir o 0 " se a divisão ocorrer corretamente então mostrarar o resultado da divisão, explique.
+170: Desafio extra: Crie uma pequena calculadora, para a divivisão de 2 números usando o loop while, se você dividir 5/0 por exemplo, vai ocorrer o error que você viu antes, faça com que seja exibida uma mensagem para quando ocorrer esse error ex: "você não pode dividir o 0 " se a divisão ocorrer corretamente então mostrarar o resultado da divisão, explique.
 
-171:Crie um script que tente ler um arquivo que não exista, exemplo rodrigo.txt vai ocorrer o error FileNotFoundError: use try except para mostrar uma mensagem falando que o arquivo.txt não existe explique.
+171: Crie um script que tente ler um arquivo que não exista, exemplo rodrigo.txt vai ocorrer o error FileNotFoundError: use try except para mostrar uma mensagem falando que o arquivo.txt não existe explique.
 
-172:Crie um script que tenha uma string ex: " Alice no País das Maravilhas " use o split() para tornar cada palavra uma string na lista explique.
+172: Crie um script que tenha uma string ex: " Alice no País das Maravilhas " use o split() para tornar cada palavra uma string na lista explique.
 
-173:Crie um script com um arquivo de texto, faça uma exceção para caso ele não exista mostrar a msg, crie um bloco else para receber o conteudo do arquivo em seguida mostre uma mensagem que imforme ex: o arquivo.txt tem 234 linhas. use split() explique
+173: Crie um script com um arquivo de texto, faça uma exceção para caso ele não exista mostrar a msg, crie um bloco else para receber o conteudo do arquivo em seguida mostre uma mensagem que imforme ex: o arquivo.txt tem 234 linhas. use split() explique
 
 174: Faça como o 173, mais nesse caso criando uma função def() explique.
 

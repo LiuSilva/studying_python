@@ -2,6 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bcc4235-18ef-4076-a60e-4fc2269d924a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0159.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0159_file" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0160.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0160_file" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0161.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0161_file" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0162.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0163.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0164.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0164_file" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0165.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0166.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0166_file" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0167.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0167_file" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0168.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0169.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -18,11 +35,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="358" column="0" lean-forward="false" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="32" />
+            <state relative-caret-position="102">
+              <caret line="380" column="0" lean-forward="false" selection-start-line="380" selection-start-column="0" selection-end-line="380" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="desafio_0169.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0169.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -54,23 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/desafio_0111.py" />
-        <option value="$PROJECT_DIR$/desafio_0112.py" />
-        <option value="$PROJECT_DIR$/desafio_0113.py" />
-        <option value="$PROJECT_DIR$/desafio_0114.py" />
-        <option value="$PROJECT_DIR$/desafio_0115.py" />
-        <option value="$PROJECT_DIR$/desafio_0116.py" />
-        <option value="$PROJECT_DIR$/desafio_0117.py" />
-        <option value="$PROJECT_DIR$/desafio_0118.py" />
-        <option value="$PROJECT_DIR$/desafio_0119.py" />
-        <option value="$PROJECT_DIR$/desafio_0120.py" />
-        <option value="$PROJECT_DIR$/desafio_0121.py" />
-        <option value="$PROJECT_DIR$/desafio_0122.py" />
-        <option value="$PROJECT_DIR$/desafio_0123.py" />
-        <option value="$PROJECT_DIR$/desafio_0124.py" />
-        <option value="$PROJECT_DIR$/desafio_0125.py" />
-        <option value="$PROJECT_DIR$/desafio_0126.py" />
-        <option value="$PROJECT_DIR$/desafio_0127.py" />
         <option value="$PROJECT_DIR$/desafio_0128.py" />
         <option value="$PROJECT_DIR$/desafio_0129.py" />
         <option value="$PROJECT_DIR$/desafio_0130.py" />
@@ -104,7 +114,24 @@
         <option value="$PROJECT_DIR$/desafio_0156.py" />
         <option value="$PROJECT_DIR$/desafio_0157.py" />
         <option value="$PROJECT_DIR$/desafio_0158.py" />
+        <option value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0159.py" />
+        <option value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0159_file" />
+        <option value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0160_file.py" />
+        <option value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0160_file" />
+        <option value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0160.py" />
+        <option value="$PROJECT_DIR$/desafio_0161.py" />
+        <option value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0162.py" />
+        <option value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0161.py" />
+        <option value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0161_file" />
+        <option value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0163.py" />
+        <option value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0164_file" />
+        <option value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0164.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0165.py" />
+        <option value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0166.py" />
+        <option value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0167.py" />
+        <option value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0168.py" />
+        <option value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0169.py" />
       </list>
     </option>
   </component>
@@ -158,6 +185,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studying_python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studying_python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_crash_course" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter_10_files_exceptions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -175,6 +220,11 @@
       </console-settings>
     </option>
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -187,92 +237,92 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.desafio_0157">
-    <configuration default="false" name="desafio_0153" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.desafio_0169">
+    <configuration default="false" name="desafio_0165" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="studying_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio_0153.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0165.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="desafio_0154" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="desafio_0166" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="studying_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio_0154.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0166.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="desafio_0155" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="desafio_0167" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="studying_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio_0155.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0167.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="desafio_0156" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="desafio_0168" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="studying_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio_0156.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0168.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="desafio_0157" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="desafio_0169" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="studying_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio_0157.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0169.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,19 +393,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.desafio_0153" />
-      <item index="1" class="java.lang.String" itemvalue="Python.desafio_0154" />
-      <item index="2" class="java.lang.String" itemvalue="Python.desafio_0155" />
-      <item index="3" class="java.lang.String" itemvalue="Python.desafio_0156" />
-      <item index="4" class="java.lang.String" itemvalue="Python.desafio_0157" />
+      <item index="0" class="java.lang.String" itemvalue="Python.desafio_0165" />
+      <item index="1" class="java.lang.String" itemvalue="Python.desafio_0166" />
+      <item index="2" class="java.lang.String" itemvalue="Python.desafio_0167" />
+      <item index="3" class="java.lang.String" itemvalue="Python.desafio_0168" />
+      <item index="4" class="java.lang.String" itemvalue="Python.desafio_0169" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.desafio_0157" />
-        <item index="1" class="java.lang.String" itemvalue="Python.desafio_0156" />
-        <item index="2" class="java.lang.String" itemvalue="Python.desafio_0155" />
-        <item index="3" class="java.lang.String" itemvalue="Python.desafio_0154" />
-        <item index="4" class="java.lang.String" itemvalue="Python.desafio_0153" />
+        <item index="0" class="java.lang.String" itemvalue="Python.desafio_0169" />
+        <item index="1" class="java.lang.String" itemvalue="Python.desafio_0168" />
+        <item index="2" class="java.lang.String" itemvalue="Python.desafio_0167" />
+        <item index="3" class="java.lang.String" itemvalue="Python.desafio_0166" />
+        <item index="4" class="java.lang.String" itemvalue="Python.desafio_0165" />
       </list>
     </recent_temporary>
   </component>
@@ -496,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1504660845962</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Estruturando Desafios">
+      <created>1504660953608</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1504660953608</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView">
@@ -515,7 +572,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18370484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -563,23 +620,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/desafio_0112.py" />
-    <entry file="file://$PROJECT_DIR$/desafio_0113.py" />
-    <entry file="file://$PROJECT_DIR$/desafio_0114.py" />
-    <entry file="file://$PROJECT_DIR$/desafio_0115.py" />
-    <entry file="file://$PROJECT_DIR$/desafio_0116.py" />
-    <entry file="file://$PROJECT_DIR$/desafio_0117.py" />
-    <entry file="file://$PROJECT_DIR$/desafio_0118.py" />
-    <entry file="file://$PROJECT_DIR$/desafio_0119.py" />
-    <entry file="file://$PROJECT_DIR$/desafio_0120.py" />
-    <entry file="file://$PROJECT_DIR$/desafio_0121.py" />
-    <entry file="file://$PROJECT_DIR$/desafio_0122.py" />
-    <entry file="file://$PROJECT_DIR$/desafio_0123.py" />
-    <entry file="file://$PROJECT_DIR$/desafio_0124.py" />
-    <entry file="file://$PROJECT_DIR$/desafio_0125.py" />
-    <entry file="file://$PROJECT_DIR$/desafio_0126.py" />
-    <entry file="file://$PROJECT_DIR$/desafio_0127.py" />
-    <entry file="file://$PROJECT_DIR$/desafio_0128.py" />
     <entry file="file://$PROJECT_DIR$/desafio_0129.py" />
     <entry file="file://$PROJECT_DIR$/desafio_0130.py" />
     <entry file="file://$PROJECT_DIR$/desafio_0132.py" />
@@ -620,10 +660,146 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0159_file">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0159.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0160_file">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0160.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0161_file">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0161.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0162.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0164_file">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="10000" column="0" lean-forward="false" selection-start-line="10000" selection-start-column="0" selection-end-line="10000" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0163.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0164.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0165.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0166_file">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0166.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="50" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0167.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="40" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0167_file">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0168.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="44" lean-forward="false" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="358" column="0" lean-forward="false" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="32" />
+        <state relative-caret-position="102">
+          <caret line="380" column="0" lean-forward="false" selection-start-line="380" selection-start-column="0" selection-end-line="380" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_crash_course/chapter_10_files_exceptions/desafio_0169.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding />
         </state>
       </provider>
