@@ -356,7 +356,7 @@ e outra com usuários confirmados, dentro do while vc terá uma variável que re
 
 158: Explique sobre classes de estilo.
 
-			Chapter 10: Files and Exceptions
+		                    	Chapter 10: Files and Exceptions
 
 159: Crie um script que abra um arquivo de texto, é mostre o conteúdo escrito explique.
 

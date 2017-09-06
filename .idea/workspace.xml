@@ -2,170 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bcc4235-18ef-4076-a60e-4fc2269d924a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/studying_python.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_02_variables/desafio_0001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_02_variables/desafio_0002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_02_variables/desafio_0003.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_02_variables/desafio_0004.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_02_variables/desafio_0005.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_02_variables/desafio_0006.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0007.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0008.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0009.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0010.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0011.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0012.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0013.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0014.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0015.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0016.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0017.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0018.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0019.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0020.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0021.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0022.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0023.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0024.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0025.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0026.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0027.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0028.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_03_introduction_list/desafio_0029.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0030.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0031.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0032.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0033.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0034.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0035.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0036.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0037.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0038.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0039.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0040.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0041.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0042.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0043.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0044.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0045.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0046.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0047.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0048.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0049.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0050.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0051.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0052.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0053.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0054.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0055.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0056.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0057.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0058.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0059.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_04_lists/desafio_0060.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0061.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0062.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0063.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0064.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0065.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0066.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0067.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0068.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0069.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0070.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0071.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0072.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0073.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0074.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0075.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0076.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0077.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0078.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0079.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0080.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0081.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0082.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0083.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0084.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0085.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0086.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0087.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0088.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_05_if/desafio_0089.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0090.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0091.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0092.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0093.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0094.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0095.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0096.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0097.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0098.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0099.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0100.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0101.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0102.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0103.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0104.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0105.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0106.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0107.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0108.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0109.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0110.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0111.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_06_dictionaries/desafio_0112.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_07_user_input_while/desafio_0113.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_07_user_input_while/desafio_0114.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_07_user_input_while/desafio_0115.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_07_user_input_while/desafio_0116.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_07_user_input_while/desafio_0117.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_07_user_input_while/desafio_0118.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_07_user_input_while/desafio_0119.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_07_user_input_while/desafio_0120.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_07_user_input_while/desafio_0121.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_07_user_input_while/desafio_0122.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_07_user_input_while/desafio_0123.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_07_user_input_while/desafio_0124.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_07_user_input_while/desafio_0125.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_07_user_input_while/desafio_0126.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_07_user_input_while/desafio_0127.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_07_user_input_while/desafio_0128.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0129.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0130.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0131.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0132.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0133.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0134.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0135.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0136.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0137.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0138.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0139.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0140.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0141.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0142.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0143.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0144.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0145.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0146.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0146_pizza.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_08_functions/desafio_0147.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_09_classes/desafio_0148.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_09_classes/desafio_0149.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_09_classes/desafio_0150.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_09_classes/desafio_0151.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_09_classes/desafio_0152.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_09_classes/desafio_0153.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_09_classes/desafio_0154.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_09_classes/desafio_0155.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_09_classes/desafio_0156.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_09_classes/desafio_0156_carro.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_09_classes/desafio_0157.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_crash_course/chapter_09_classes/desafio_0158.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -183,8 +21,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="360" column="5" lean-forward="false" selection-start-line="360" selection-start-column="5" selection-end-line="360" selection-end-column="5" />
+            <state relative-caret-position="407">
+              <caret line="358" column="0" lean-forward="false" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -651,7 +489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1504660569154</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Estruturando Desafios">
+      <created>1504660845962</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1504660845962</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView">
@@ -665,8 +510,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="308" width="1301" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18370484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18370484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -709,7 +555,8 @@
     <MESSAGE value="Desafios 121 a 128 concluidos" />
     <MESSAGE value="Desafios 128 a 141 concluidos" />
     <MESSAGE value="Desafios concluidos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafios concluidos" />
+    <MESSAGE value="Estruturando Desafios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estruturando Desafios" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -769,13 +616,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="360" column="5" lean-forward="false" selection-start-line="360" selection-start-column="5" selection-end-line="360" selection-end-column="5" />
+        <state relative-caret-position="407">
+          <caret line="358" column="0" lean-forward="false" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="32" />
           <folding />
         </state>
       </provider>
