@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bcc4235-18ef-4076-a60e-4fc2269d924a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/commands_arguments.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/utils/commands_arguments.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -516,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1507644440014</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Using line commands into the python code">
+      <created>1507646711918</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1507646711918</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -610,7 +616,8 @@
     <MESSAGE value="Estruturando Desafios" />
     <MESSAGE value="Finalizando Capitulos Introdutorios" />
     <MESSAGE value="Added PDF separating program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added PDF separating program" />
+    <MESSAGE value="Using line commands into the python code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using line commands into the python code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -981,7 +988,7 @@
     <entry file="file://$PROJECT_DIR$/utils/commands_arguments.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
           <folding />
         </state>
       </provider>
